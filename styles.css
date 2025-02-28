@@ -55,11 +55,6 @@ button:hover {
     background: #D40000;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
 .landing-page {
     margin-top: 30px;
     padding: 20px;
